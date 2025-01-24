@@ -1,39 +1,5 @@
 # 서버 실행 및 외부 네트워크 접속 가이드
 
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        margin: 20px;
-        background-color: #f9f9f9;
-        color: #333;
-    }
-    h1, h2 {
-        color: #2c3e50;
-    }
-    pre {
-        background: #ecf0f1;
-        padding: 10px;
-        border: 1px solid #bdc3c7;
-        border-radius: 5px;
-        overflow-x: auto;
-    }
-    ul, ol {
-        margin: 15px 0;
-        padding-left: 20px;
-    }
-    li {
-        margin-bottom: 10px;
-    }
-    a {
-        color: #2980b9;
-        text-decoration: none;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
-</style>
-
 이 가이드는 로컬 컴퓨터에서 서버를 실행하고, 외부 네트워크(다른 네트워크)에서 해당 서버에 접속하는 방법을 단계별로 설명합니다.
 
 ---
